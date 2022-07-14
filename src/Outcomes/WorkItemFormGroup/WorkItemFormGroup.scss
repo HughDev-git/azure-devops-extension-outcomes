@@ -1,0 +1,39 @@
+@import "node_modules/azure-devops-ui/Core/_platformCommon.scss";
+
+// .bolt-textfield {
+//     margin-bottom: 2em !important;
+// }
+.required-field {
+    color: #DA0A01;
+    font-size: $fontSizeM;
+    font-family: $fontFamily;
+    font-weight: 300;
+    margin-top: -.5em;
+    padding-left: 13px;
+}
+.outcome-dd {
+    margin-bottom: .5em;
+}
+.outcome-btn {
+    float: right;
+}
+.outcome-card {
+    float: right;
+    margin-top: 1.5em;
+}
+.current-outcome {
+    font-size: $fontSizeS;
+    font-family: $fontFamily;
+    font-weight: bold;
+    margin-top: -.5em;
+    padding-left: 13px;
+}
+.learn-more {
+    font-size: 10px;
+    float: right;
+    margin-top: 1em;
+}
+.missingSomethingLink {
+    font-weight: bold;
+    font-size: larger;
+}

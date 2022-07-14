@@ -1,0 +1,35 @@
+{
+    "manifestVersion": 1,
+    "id": "outcomes",
+    "publisher": "jarhughe",
+    "version": "1.0.87",
+    "name": "Microsoft Outcomes",
+    "description": "Azure DevOps Extension to manage the selection of Microsoft Outcomes",
+    "targets": [
+        {
+            "id": "Microsoft.VisualStudio.Services"
+        }
+    ],
+    "icons": {
+        "default": "logo.png"
+    },
+    "content": {
+        "details": {
+            "path": "overview.md"
+        }
+    },
+    "files": [
+        {
+            "path": "static",
+            "addressable": true
+        },
+        {
+            "path": "dist",
+            "addressable": true
+        }
+    ],
+    "categories": [
+        "Azure Boards"
+    ]
+}
+        
