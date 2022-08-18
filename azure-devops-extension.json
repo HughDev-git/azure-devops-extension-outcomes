@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "outcomes",
     "publisher": "jarhughe",
-    "version": "1.0.89",
+    "version": "1.0.90",
     "name": "Microsoft Outcomes",
     "description": "Azure DevOps Extension to manage the selection of Microsoft Outcomes",
     "targets": [
